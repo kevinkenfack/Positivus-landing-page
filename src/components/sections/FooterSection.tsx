@@ -37,10 +37,10 @@ function FooterSection() {
             Contact Us:
           </div>
 
-          <p className="text-white mt-[27px]">Email: info@positivus.com</p>
-          <p className="text-white mt-[27px]">Phone: 555-567-8901</p>
+          <p className="text-white mt-[27px]">Email: contact@kevinkenfack.com</p>
+          <p className="text-white mt-[27px]">Phone: 000 000 000</p>
           <p className="text-white mt-[27px]">
-            Address: 1234 Main St Moonstone City, Stardust State 12345
+            Address: Douala Cameroun
           </p>
         </div>
         <div className="bg-[#292A32] flex flex-col md:flex-row gap-4 justify-center items-center md:gap-[20px] py-16 px-[40px] rounded-[14px]">

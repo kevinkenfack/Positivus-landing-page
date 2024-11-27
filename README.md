@@ -1,11 +1,8 @@
-# Positivus
+# Positivus landing page
 Positivus website built with Next14, Shadcn, and Tailwind.
 
-# Youtube
-https://youtu.be/xuX2MTghC4U
-
 # ☁️ Deployed link
-https://positivus-orpin.vercel.app/
+https://landing-page-v5-ten.vercel.app/
 
 Figma:  
 https://www.figma.com/design/bv6mTDaEAtJWwpHdhizVB2/Positivus-Landing-Page-Design-(Community)?node-id=25-145&t=w6kdLVCtNaPU5RTB-0
@@ -34,5 +31,5 @@ All thanks to Olga Skuja from the figma community
 https://www.olgaskuja.design/?utm_source=positivus&utm_medium=fig&utm_campaign=prom
 
 ## Author
-Built with love ❤️ by Pius Lucky https://luckypius.netlify.app/
+Built with love ❤️ by Kevin kenfack https://kevinkenfack.com
 
